@@ -1,0 +1,14 @@
+{
+  "name": "common-utilities",
+  "version": "1.0.0",
+  "private": true,
+  "description": "A multiple purpose module having different utility functionality like common error handling and error types",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "avipise2@gmail.com",
+  "license": "ISC",
+  "main": "index.js"
+}
+
+
