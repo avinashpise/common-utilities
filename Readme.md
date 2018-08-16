@@ -5,11 +5,11 @@
 
 Using npm:
 
-    $ npm install common-utilities
+    $ npm install common-node-utilities
 
 Using bower:
 
-    $ bower install common-utilities
+    $ bower install common-node-utilities
 
 
 ## Description
